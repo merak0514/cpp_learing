@@ -1,0 +1,4 @@
+﻿D:\Program File\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(triangle.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  cuboid.cpp
+triangle.obj : error LNK2005: _main 已经在 cuboid.obj 中定义
+F:\merak\desktop\Visual Studio2012\2.26\triangle\Debug\2.26.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

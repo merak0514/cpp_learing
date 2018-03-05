@@ -1,0 +1,3 @@
+﻿D:\Program File\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(ppt.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ppt.cpp
+  ppt.vcxproj -> F:\merak\desktop\Visual Studio2012\2.26\ppt\Debug\Car.exe
