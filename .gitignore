@@ -46,5 +46,6 @@
 *.sln.docstates
 *.log
 Debug/
+.vs
 =======
 >>>>>>> 8d187035b8e541f60405659b5b86d928bfdf8615
