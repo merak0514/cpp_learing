@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "纸本作业3_2_反正切", "纸本作业3_2_反正切\纸本作业3_2_反正切.vcxproj", "{8A6257CD-9052-429D-8EF1-EF4AD501B992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Debug|x64.ActiveCfg = Debug|x64
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Debug|x64.Build.0 = Debug|x64
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Debug|x86.Build.0 = Debug|Win32
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Release|x64.ActiveCfg = Release|x64
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Release|x64.Build.0 = Release|x64
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Release|x86.ActiveCfg = Release|Win32
+		{8A6257CD-9052-429D-8EF1-EF4AD501B992}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1612E8E-9254-47D6-966E-A4964B08ED22}
+	EndGlobalSection
+EndGlobal

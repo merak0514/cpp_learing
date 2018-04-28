@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_5_Newton_method_to_sqrt", "5_5_Newton_method_to_sqrt\5_5_Newton_method_to_sqrt.vcxproj", "{2EFAEF23-74E4-4717-9271-F59D03F7A43B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Debug|x64.ActiveCfg = Debug|x64
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Debug|x64.Build.0 = Debug|x64
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Debug|x86.Build.0 = Debug|Win32
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Release|x64.ActiveCfg = Release|x64
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Release|x64.Build.0 = Release|x64
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Release|x86.ActiveCfg = Release|Win32
+		{2EFAEF23-74E4-4717-9271-F59D03F7A43B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F94A5553-2E29-409F-B0C1-47415C9408F7}
+	EndGlobalSection
+EndGlobal
